@@ -1,0 +1,36 @@
+body{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: url("https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80")
+}
+.card{
+    border: 2px solid black;
+    padding: 46px;
+    height:150px;
+    border-radius: 40px;
+    background-color: #000000d0;
+    color:white;
+}
+.search{
+  height:50px;
+}
+.input{
+  height:30px;
+  border:2px solid black;
+  border-radius: 15px;
+  font-family: "Open Sans",sans-serif;
+  background-color:#baa6a6;
+}
+button{
+  border:2px solid black;
+  border-radius: 10px;
+  cursor:pointer;
+}
+button:hover{
+  background-color:#ac9a9a;
+}
+.info{
+  font-family: "Open Sans",sans-serif;
+}
