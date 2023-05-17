@@ -1,0 +1,9 @@
+*{
+  box-sizing:border-box
+}
+body{
+  background-color:#123021
+  color:#89be89;
+  font-family:sans-serif;
+  font-display:asterisks;
+}
